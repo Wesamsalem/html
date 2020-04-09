@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TO-do's list</title>
+    <style>
+        .container{
+            margin: 30px;
+        }
+        .btn-submit {
+            background: blueviolet;
+            border: aliceblue;
+            height: 29px;
+            width: 88px;
+            border-radius: 4px;
+        }
+        .input-st{
+            height: 25px;
+            width: 200px;
+        }
+        .container3{
+            color: darksalmon;
+            display: inline;
+        }
+        .container4{
+            color: seagreen ;
+        }
+
+        .a-row1{
+            display: none;
+            margin-left: 80%;}
+
+        .done-btn{
+            color: seagreen;
+        }
+        .delete-btn{
+            color: darkred;
+        }
+
+        .row1:hover .a-row1{display: inline; text-decoration: underline;}
+
+        .row1:hover  .new1{ border: 1px solid;}
+
+
+
+    </style>
+</head>
+<body>
+<div class="container">
+<h1>To-do's List</h1>
+<form name="register">
+    <input class="input-st" type="text" name="New task" value="" placeholder="New task....">
+    <input class="btn-submit" type="submit" value="Add To list">
+
+</form>
+</div>
+<div class="container2">
+    <ul style="list-style-type: none;">
+   <div class="row1">
+        <li class="container3">Learn Html</li>
+
+        <div class="a-row1">
+
+    <a href="#" class="done-btn">Mark as Done |</a>
+    <a href="#" class="delete-btn">Delete</a>
+        </div>
+
+        <hr class="new1">
+
+        </div>
+    <li class="container4">Learn Css</li>
+    <hr>
+        <div>
+    <li>Learn Javascript</li>
+    <hr>
+    <li>Learn Php</li>
+        </div>
+    </ul>
+
+</div>
+
+
+
+
+</body>
+</html>
