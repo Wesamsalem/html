@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57b79128-03ea-4e48-89cc-cf8be534926f" name="Default Changelist" comment="" />
+    <list default="true" id="57b79128-03ea-4e48-89cc-cf8be534926f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To dos list.html" beforeDir="false" afterPath="$PROJECT_DIR$/To dos list.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a7wbQGsvHXP5UYwcDSzUIjdZw8" />
   <component name="ProjectViewState">
@@ -63,10 +69,24 @@
       <workItem from="1586286545358" duration="1791000" />
       <workItem from="1586288367121" duration="1795000" />
       <workItem from="1586292186105" duration="1797000" />
+      <workItem from="1586725989129" duration="227000" />
+      <workItem from="1586798493000" duration="1823000" />
+      <workItem from="1586812312845" duration="1970000" />
+      <workItem from="1586814314369" duration="1412000" />
+      <workItem from="1586968918343" duration="1862000" />
+      <workItem from="1587153022960" duration="733000" />
+      <workItem from="1587237111774" duration="1465000" />
+      <workItem from="1587239091122" duration="1800000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586970454927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586970454927" />
   </component>
 </project>
